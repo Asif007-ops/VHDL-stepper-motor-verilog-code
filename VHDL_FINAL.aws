@@ -1,0 +1,12 @@
+[Version]
+Version=12.0
+[Designs]
+vhdl_final=.\VHDL_FINAL\VHDL_FINAL.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+vhdl_final=1
